@@ -1,0 +1,4 @@
+params/
+models/
+*.png
+__pycache__
